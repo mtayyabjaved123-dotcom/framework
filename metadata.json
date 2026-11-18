@@ -1,0 +1,8 @@
+{
+  "name": "Framecraft",
+  "description": "Collaborative video editing and motion graphics studio with keyframe animation, kinetic typography, and real-time multi-user timeline sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
